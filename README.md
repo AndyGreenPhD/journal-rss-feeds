@@ -1,5 +1,4 @@
-# journal-rss-feeds
-RSS feeds for academic journals
+# RSS feeds for academic journals
 
 AIS Basket of 8 journals
 
