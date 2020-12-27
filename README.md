@@ -3,9 +3,9 @@
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
 
-Hopefully you will find this repo beneficial to your efforts!
+Hopefully you will find this repo beneficial to your efforts to stay current on literature in the IS and InfoSec space.
 
-I welcome contributions to this repo if you would like to help!
+I welcome contributions if you would like to help!
 
 ## AIS Basket of 8 journals
 
