@@ -1,4 +1,4 @@
-# RSS feeds for academic journals
+# RSS feeds for IS and InfoSec academic journals
 ## Last updated 12/27/2020
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
@@ -24,7 +24,7 @@ Journal of Strategic Information Systems | http://rss.sciencedirect.com/publicat
 MIS Quarterly | http://aisel.aisnet.org/misq/recent.rss
 
 
-## Security-related journals
+## AIS SIGSEC journal list
 This list is maintained by the AIS Special Interest Group on Security (SIGSEC) and can be viewed at https://aisnet.org/page/SeniorScholarBasket
 
 Journal name | RSS URL
