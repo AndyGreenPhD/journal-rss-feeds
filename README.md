@@ -12,7 +12,6 @@ I welcome contributions if you would like to help!
 Journal name | RSS URL
 ------------ | -------
 European Journal of Information Systems | https://www.tandfonline.com/feed/rss/tjis20
-
 Information Systems Journal | https://onlinelibrary.wiley.com/feed/13652575/most-recent
 
 Information Systems Research | https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=isre
