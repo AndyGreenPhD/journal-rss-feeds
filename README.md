@@ -1,6 +1,5 @@
 # RSS feeds for academic journals
-
-AIS Basket of 8 journals
+## AIS Basket of 8 journals
 
 European Journal of Information Systems
 https://www.tandfonline.com/feed/rss/tjis20
@@ -27,7 +26,8 @@ MIS Quarterly
 http://aisel.aisnet.org/misq/recent.rss
 
 
-Security-related journals
+## Security-related journals
+
 Computers & Security
 https://www.journals.elsevier.com/computers-and-security/rss
 
