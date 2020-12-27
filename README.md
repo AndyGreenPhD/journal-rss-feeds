@@ -1,4 +1,12 @@
 # RSS feeds for academic journals
+## Last updated 12/27/2020
+
+Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
+
+Hopefully you will find this repo beneficial to your efforts!
+
+I welcome contributions to this repo if you would like to help!
+
 ## AIS Basket of 8 journals
 
 European Journal of Information Systems
