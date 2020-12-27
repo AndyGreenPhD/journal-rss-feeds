@@ -7,7 +7,10 @@ Hopefully you will find this repo beneficial to your efforts to stay current on 
 
 I welcome contributions if you would like to help!
 
-## AIS Basket of 8 journals
+## AIS Senior Scholars' Basket of Journals
+This list is maintained by the AIS College of Senior Scholars and can be viewed at https://aisnet.org/page/SeniorScholarBasket
+
+This list is sometimes referred to as the "basket of 8"
 
 Journal name | RSS URL
 ------------ | -------
@@ -22,6 +25,7 @@ MIS Quarterly | http://aisel.aisnet.org/misq/recent.rss
 
 
 ## Security-related journals
+This list is maintained by the AIS Special Interest Group on Security (SIGSEC) and can be viewed at https://aisnet.org/page/SeniorScholarBasket
 
 Journal name | RSS URL
 ------------ | -------
