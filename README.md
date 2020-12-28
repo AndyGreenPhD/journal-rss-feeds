@@ -35,7 +35,7 @@ Journal of Information System Security | None
 Digital Investigation | https://www.journals.elsevier.com/forensic-science-international-digital-investigation/rss
 
 ## Other InfoSec-related journals
-This is a list of journals I follow
+This is a list of InfoSec-related journals I follow.
 
 Journal name | RSS URL
 ------------ | -------
