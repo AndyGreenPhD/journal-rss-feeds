@@ -33,3 +33,10 @@ Computers & Security | https://www.journals.elsevier.com/computers-and-security/
 International Journal of Information Security | http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10207&channel-name=International+Journal+of+Information+Security
 Journal of Information System Security | None
 Digital Investigation | https://www.journals.elsevier.com/forensic-science-international-digital-investigation/rss
+
+## Other InfoSec-related journals
+This is a list of journals I follow
+
+Journal name | RSS URL
+------------ | -------
+Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
