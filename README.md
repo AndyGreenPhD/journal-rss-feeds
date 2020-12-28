@@ -1,5 +1,5 @@
 # RSS feeds for Information Systems and InfoSec academic journals
-## Last updated 12/27/2020
+## Last updated 12/28/2020
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
 
@@ -40,3 +40,5 @@ This is a list of journals I follow
 Journal name | RSS URL
 ------------ | -------
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
+Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
+Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
