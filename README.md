@@ -1,5 +1,5 @@
 # RSS feeds for Information Systems and InfoSec academic journals
-## Last updated 12/28/2020
+## Last updated 12/29/2020
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
 
@@ -30,9 +30,10 @@ This list is maintained by the AIS Special Interest Group on Security (SIGSEC) a
 Journal name | RSS URL
 ------------ | -------
 Computers & Security | https://www.journals.elsevier.com/computers-and-security/rss
+Digital Investigation | https://www.journals.elsevier.com/forensic-science-international-digital-investigation/rss
 International Journal of Information Security | http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10207&channel-name=International+Journal+of+Information+Security
 Journal of Information System Security | None
-Digital Investigation | https://www.journals.elsevier.com/forensic-science-international-digital-investigation/rss
+
 
 ## Other InfoSec-related journals
 This is a list of InfoSec-related journals I follow.
@@ -42,3 +43,11 @@ Journal name | RSS URL
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
+
+## Public policy journals
+This is a list of public policy journals I follow.
+
+Journal name | RSS URL
+------------ | -------
+Government Information Quarterly | http://rss.sciencedirect.com/publication/science/0740624X
+Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access 
