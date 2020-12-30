@@ -1,5 +1,4 @@
 # RSS feeds for Information Systems and InfoSec academic journals
-## Last updated 12/30/2020
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
 
@@ -44,6 +43,7 @@ Computer Law & Security Review | http://rss.sciencedirect.com/publication/scienc
 Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
+Journal of Information Security and Applications | http://rss.sciencedirect.com/publication/science/22142126
 
 ## Public policy journals
 This is a list of public policy journals I follow.
