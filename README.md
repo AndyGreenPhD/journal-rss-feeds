@@ -1,5 +1,5 @@
 # RSS feeds for Information Systems and InfoSec academic journals
-## Last updated 12/29/2020
+## Last updated 12/30/2020
 
 Keeping an eye on new articles from academic journals can easily be a full-time job.  So, I wanted to find a way to make this easier on myself and others.
 
