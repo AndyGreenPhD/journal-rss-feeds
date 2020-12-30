@@ -40,9 +40,10 @@ This is a list of InfoSec-related journals I follow.
 
 Journal name | RSS URL
 ------------ | -------
-Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
+Computer Law & Security Review | http://rss.sciencedirect.com/publication/science/02673649
 Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
+Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
 
 ## Public policy journals
 This is a list of public policy journals I follow.
@@ -50,4 +51,4 @@ This is a list of public policy journals I follow.
 Journal name | RSS URL
 ------------ | -------
 Government Information Quarterly | http://rss.sciencedirect.com/publication/science/0740624X
-Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access 
+Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access
