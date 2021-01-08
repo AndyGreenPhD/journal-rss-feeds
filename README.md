@@ -52,3 +52,10 @@ Journal name | RSS URL
 ------------ | -------
 Government Information Quarterly | http://rss.sciencedirect.com/publication/science/0740624X
 Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access
+
+## Miscellaneous journals
+This is a list of other journals I follow that don't fit into the categories above
+
+Journal name | RSS URL
+------------ | -------
+Decision Analysis | http://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=deca
