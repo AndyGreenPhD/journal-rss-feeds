@@ -50,7 +50,7 @@ This is a list of IS-related journals I follow
 
 Journal name | RSS URL
 ------------ | -------
-Communications of the AIS | aisel.aisnet.org/cais/recent.rss
+Communications of the AIS | http://aisel.aisnet.org/cais/recent.rss
 
 ## Public policy journals
 This is a list of public policy journals I follow.
