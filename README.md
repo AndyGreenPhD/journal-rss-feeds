@@ -45,6 +45,13 @@ Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.o
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
 Journal of Information Security and Applications | http://rss.sciencedirect.com/publication/science/22142126
 
+## Information Systems-related journals
+This is a list of IS-related journals I follow
+
+Journal name | RSS URL
+------------ | -------
+Communications of the AIS | aisel.aisnet.org/cais/recent.rss
+
 ## Public policy journals
 This is a list of public policy journals I follow.
 
