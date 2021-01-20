@@ -39,6 +39,7 @@ This is a list of InfoSec-related journals I follow.
 
 Journal name | RSS URL
 ------------ | -------
+Computer Fraud & Security | http://rss.sciencedirect.com/publication/science/13613723
 Computer Law & Security Review | http://rss.sciencedirect.com/publication/science/02673649
 Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
