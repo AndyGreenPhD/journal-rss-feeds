@@ -45,6 +45,7 @@ Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
 Journal of Information Security and Applications | http://rss.sciencedirect.com/publication/science/22142126
+Network Security | http://rss.sciencedirect.com/publication/science/13534858
 
 ## Information Systems-related journals
 This is a list of IS-related journals I follow
