@@ -51,6 +51,7 @@ This is a list of IS-related journals I follow
 
 Journal name | RSS URL
 ------------ | -------
+Communications of the ACM | http://cacm.acm.org/magazine.rss
 Communications of the AIS | http://aisel.aisnet.org/cais/recent.rss
 
 ## Public policy journals
@@ -60,6 +61,7 @@ Journal name | RSS URL
 ------------ | -------
 Government Information Quarterly | http://rss.sciencedirect.com/publication/science/0740624X
 Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access
+Journal of Conflict and Security Law | http://jcsl.oxfordjournals.org/rss/current.xml
 
 ## Miscellaneous journals
 This is a list of other journals I follow that don't fit into the categories above
