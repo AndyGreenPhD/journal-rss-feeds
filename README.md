@@ -28,8 +28,6 @@ This list is maintained by the AIS Special Interest Group on Security (SIGSEC) a
 
 Journal name | RSS URL
 ------------ | -------
-Computers & Security | https://www.journals.elsevier.com/computers-and-security/rss
-Digital Investigation | https://www.journals.elsevier.com/forensic-science-international-digital-investigation/rss
 International Journal of Information Security | http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10207&channel-name=International+Journal+of+Information+Security
 Journal of Information System Security | None
 
@@ -39,13 +37,13 @@ This is a list of InfoSec-related journals I follow.
 
 Journal name | RSS URL
 ------------ | -------
-Computer Fraud & Security | http://rss.sciencedirect.com/publication/science/13613723
+Computer Fraud & Security | Moved from Science Direct to Mark Allen Group in 2022, no RSS feed available as of June 2022
 Computer Law & Security Review | http://rss.sciencedirect.com/publication/science/02673649
 Journal of Cybersecurity (Advance Access) | http://cybersecurity.oxfordjournals.org/rss/ahead.xml
 Journal of Cybersecurity (Current Issue) | http://cybersecurity.oxfordjournals.org/rss/current.xml
 Journal of Global Security Studies | http://jogss.oxfordjournals.org/rss/ahead.xml
 Journal of Information Security and Applications | http://rss.sciencedirect.com/publication/science/22142126
-Network Security | http://rss.sciencedirect.com/publication/science/13534858
+Network Security | moved from Science Direct to Mark Allen Group in 2022, no RSS feed available as of June 2022
 
 ## Information Systems-related journals
 This is a list of IS-related journals I follow
@@ -61,7 +59,6 @@ This is a list of public policy journals I follow.
 Journal name | RSS URL
 ------------ | -------
 Government Information Quarterly | http://rss.sciencedirect.com/publication/science/0740624X
-Government Information Quarterly (Open Access)| http://rss.sciencedirect.com/publication/science/0740624X_OA/open-access
 Journal of Conflict and Security Law | http://jcsl.oxfordjournals.org/rss/current.xml
 
 ## Miscellaneous journals
