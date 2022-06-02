@@ -28,6 +28,8 @@ This list is maintained by the AIS Special Interest Group on Security (SIGSEC) a
 
 Journal name | RSS URL
 ------------ | -------
+Computers & Security | http://rss.sciencedirect.com/publication/science/01674048
+Digital Investigation | http://rss.sciencedirect.com/publication/science/26662817
 International Journal of Information Security | http://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=10207&channel-name=International+Journal+of+Information+Security
 Journal of Information System Security | None
 
